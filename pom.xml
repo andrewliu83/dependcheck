@@ -596,31 +596,6 @@
     </dependency>
   </dependencies>
 
-  <repositories>
-    <repository>
-      <snapshots>
-        <enabled>true</enabled>
-      </snapshots>
-      <releases>
-        <enabled>true</enabled>
-      </releases>
-      <id>nexus</id>
-      <name>Nexus Repository</name>
-      <url>https://10.143.132.59:8443/repository/maven-public/</url>
-    </repository>
-  </repositories>
 
-  <pluginRepositories>
-    <pluginRepository>
-      <snapshots>
-        <enabled>true</enabled>
-      </snapshots>
-      <releases>
-        <enabled>true</enabled>
-      </releases>
-      <id>nexus</id>
-      <name>Nexus Repository</name>
-      <url>https://10.143.132.59:8443/repository/maven-public/</url>
-    </pluginRepository>
-  </pluginRepositories>
+
 </project>
